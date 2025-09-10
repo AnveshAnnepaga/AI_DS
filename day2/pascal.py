@@ -8,9 +8,15 @@ def pascal_triangle(n):
 
     
     for i in range(n):
-        print(" " * (n - i), end="")   # spacing for alignment
+        print(" " * (n - i), end="")      
         for num in triangle[i]:
             print(num, end=" ")
         print()
+        
+        
+        
+        
+        
+        
 
 pascal_triangle(5)
