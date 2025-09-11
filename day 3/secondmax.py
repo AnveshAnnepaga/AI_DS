@@ -5,11 +5,11 @@
 #     max = lst[0]
 #     for i in lst:
 #         if i > max:
-#             max_val = i
+#             max = i
 
 #     secondmax = None
 #     for i in lst:
-#         if i < max_val:
+#         if i < max:
 #             if secondmax is None or i > secondmax:
 #                 secondmax = i
 
