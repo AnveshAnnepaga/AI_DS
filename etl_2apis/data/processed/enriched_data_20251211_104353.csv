@@ -1,0 +1,6 @@
+shipment_id,source_city,destination_city,dispatch_time,expected_delivery_time,actual_delivery_time,package_weight_kg,delivery_agent_id,traffic_congestion_score,average_speed_kmh,weather_warnings,delay_minutes,traffic_risk
+SWIFT-31265,Delhi,Bangalore,2025-12-09 13:36:02.591942,2025-12-09 20:36:02.591942,2025-12-09 21:36:02.591942,0.71,AGT-143,10,36,Fog,60.0,High
+SWIFT-28346,Bangalore,Chennai,2025-12-09 10:36:02.591942,2025-12-10 01:36:02.591942,2025-12-10 00:36:02.591942,13.41,AGT-445,5,28,Heatwave,-60.0,Medium
+SWIFT-61922,Bangalore,Mumbai,2025-12-11 08:36:02.591942,2025-12-11 13:36:02.591942,2025-12-11 13:36:02.591942,8.22,AGT-645,5,18,None,0.0,Medium
+SWIFT-10908,Chennai,Hyderabad,2025-12-10 11:36:02.592948,2025-12-11 04:36:02.592948,2025-12-10 18:36:02.592948,9.16,AGT-796,10,47,Heavy Rain,-600.0,High
+SWIFT-51200,Bangalore,Mumbai,2025-12-10 05:36:02.592948,2025-12-10 17:36:02.592948,,1.54,AGT-993,5,18,None,,Medium

@@ -1,0 +1,32 @@
+[
+  {
+    "city_name": "Hyderabad",
+    "traffic_congestion_score": 10,
+    "average_speed_kmh": 47,
+    "weather_warnings": "Heavy Rain"
+  },
+  {
+    "city_name": "Bangalore",
+    "traffic_congestion_score": 10,
+    "average_speed_kmh": 36,
+    "weather_warnings": "Fog"
+  },
+  {
+    "city_name": "Mumbai",
+    "traffic_congestion_score": 5,
+    "average_speed_kmh": 18,
+    "weather_warnings": "None"
+  },
+  {
+    "city_name": "Delhi",
+    "traffic_congestion_score": 6,
+    "average_speed_kmh": 14,
+    "weather_warnings": "Heavy Rain"
+  },
+  {
+    "city_name": "Chennai",
+    "traffic_congestion_score": 5,
+    "average_speed_kmh": 28,
+    "weather_warnings": "Heatwave"
+  }
+]
